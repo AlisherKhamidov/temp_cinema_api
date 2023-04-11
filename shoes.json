@@ -1,0 +1,22 @@
+{
+   "products":[
+      {
+         "title":"Кеды LOLLI|POLLI",
+         "id":1,
+         "url":"https://ir.ozone.ru/s3/multimedia-g/wc500/6595237492.jpg",
+         "link":"https://www.ozon.ru/product/kedy-lolli-polli-846589144/?avtc=1&avte=2&avts=1681244577&sh=lr6Rtopaiw"
+      },
+      {
+         "title":"Сандалии Thomas Munz",
+         "id":2,
+         "url":"https://ir.ozone.ru/s3/multimedia-a/wc500/6287296966.jpg",
+         "link":"https://www.ozon.ru/product/sandalii-thomas-munz-520759480/?avtc=1&avte=2&avts=1681244577&sh=lr6RtolBJA"
+      },
+      {
+         "title":"Кроссовки O2",
+         "id":3,
+         "url":"https://ir.ozone.ru/s3/multimedia-y/wc500/6013117174.jpg",
+         "link":"https://www.ozon.ru/product/krossovki-o2-172408247/?avtc=1&avte=2&avts=1681244577&sh=lr6RtgDGIA"
+      }
+   ]
+}
