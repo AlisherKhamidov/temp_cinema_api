@@ -1,0 +1,36 @@
+{
+   "movies":[
+      {
+         "title":"Король и шут",
+         "link":"https://hd.kinopoisk.ru/film/5eaba7e14cb84d529463075d0ffa0a50?source=kinopoisk_kp_main&from_position=1",
+         "year":2023,
+         "genre":"биография",
+         "img":"https://avatars.mds.yandex.net/get-ott/1652588/2a000001864f6d3fc64af31baa34db291189/440x660",
+         "rating":8.3
+      },
+      {
+         "title":"Актрисы",
+         "link":"https://hd.kinopoisk.ru/film/4d4e51176f86b3c0a02c4ee0ff3dec6f?source=kinopoisk_kp_main&from_position=2",
+         "year":2023,
+         "genre":"комедия",
+         "img":"https://avatars.mds.yandex.net/get-ott/1652588/2a000001864f6d3fc64af31baa34db291189/440x660",
+         "rating":6.4
+      },
+      {
+         "title":"Мерзлая земля",
+         "link":"https://hd.kinopoisk.ru/film/4bff4530a283328383196c8684c072af?source=kinopoisk_kp_main&from_position=3",
+         "year":2023,
+         "genre":"драма",
+         "img":"https://avatars.mds.yandex.net/get-ott/1534341/2a0000018713cb7b3c3dfab66ca3ece4eac9/440x660",
+         "rating":7.2
+      },
+      {
+         "title":"Беспринципные",
+         "link":"https://hd.kinopoisk.ru/film/4b63db58ab27e92b90a457e533b00007?source=kinopoisk_kp_main&from_position=4",
+         "year":2023,
+         "genre":"комедия",
+         "img":"https://avatars.mds.yandex.net/get-ott/1652588/2a000001864ad041ed5e87b72300b7a33a7f/440x660",
+         "rating":7.7
+      }
+   ]
+}
